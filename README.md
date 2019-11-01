@@ -12,11 +12,7 @@
 - **登录**
     <br/>让用户登录自己的账号，获取个人基本信息。
     
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/1.png" 
-           width=275 height=489 />
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/2.png" 
-           width=275 height=489 />
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/3.png" 
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/10.png" 
            width=275 height=489 />
            
 - **我的**
