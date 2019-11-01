@@ -28,51 +28,53 @@
            width=275 height=489 />
     
            
-- **发现**
-    <br/>主要是显示主页推荐内容。   
-    
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/8.png" 
+- **购物车**
+    <br/>主要是显示当前购物车里面所有的商品。可以进行添加和删除。   
+
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/41.png" 
            width=275 height=489 />
     
-- **朋友**
-    <br/>主要是显示当前你关注的博主发的动态。   
+- **分类**
+    <br/>主要是所有商品的分类页面。   
     
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/9.png" 
-           width=275 height=489 />
-    
-- **视频**
-    <br/>主要是推送相关mv等视频。以及点击后的视频详情页。   
-    
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/11.png" 
-           width=275 height=489 />
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/14.png" 
-           width=275 height=489 />
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/15.png" 
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/31.png" 
            width=275 height=489 />
            
-- **搜索**
-    <br/>主要是显示当前热搜榜，以及搜索后的信息。   
-    
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/12.png" 
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/14.png" 
            width=275 height=489 />
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/13.png" 
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/18.png" 
            width=275 height=489 />
     
-- **歌曲播放页**
-    <br/>主要是显示当前播放歌曲，可以进行相关切换歌曲、拉进度条、切换播放模式等功能。   
+- **主页**
+    <br/>主要是推荐相关商品的首页面。   
     
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/10.png" 
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/11.png" 
            width=275 height=489 />
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/4.png" 
+    
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/12.png" 
            width=275 height=489 />
            
-- **个人**
-    <br/>主要是显示个人信息。   
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/13.png" 
+           width=275 height=489 />
+           
+- **商品详细信息页面**
+    <br/>主要是显示当前选购的商品的所有详细信息，其中还包括一些商品的评价信息。  
     
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/5.png" 
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/15.png" 
            width=275 height=489 />
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/6.png" 
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/16.png" 
            width=275 height=489 />
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/17.png" 
+           width=275 height=489 />
+           <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/32.png" 
+           width=275 height=489 />
+    
+- **主题推荐**
+    <br/>主要是显示相关主题商品推荐。   
+    
+     <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/21.png" 
+           width=275 height=489 />
+           
             
 ## Build Setup    
 
