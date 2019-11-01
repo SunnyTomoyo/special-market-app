@@ -16,12 +16,17 @@
            width=275 height=489 />
            
 - **我的**
-    <br/>主要是显示用户当前所创建和收藏的歌单。以及歌单的详细列表。  
+    <br/>主要是显示用户当前所收藏的商品，以及收货地址的编辑。  
     
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/7.png" 
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/51.png" 
            width=275 height=489 />
-    <img style="display:inline" src="https://sunnytomoyo.github.io/MyMusic/%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87/16.png" 
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/52.png" 
            width=275 height=489 />
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/53.png" 
+           width=275 height=489 />
+    <img style="display:inline" src="https://sunnytomoyo.github.io/special-market-app/运行截图/54.png" 
+           width=275 height=489 />
+    
            
 - **发现**
     <br/>主要是显示主页推荐内容。   
